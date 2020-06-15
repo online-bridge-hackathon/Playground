@@ -12,6 +12,7 @@ Example usage:
 ```./generate_seat_keys.py '{"mytablekey" : "gpH2Lm1k51mAo8O8"}'
    {"table_create_time": "20200616004134", "table_key": "gpH2Lm1k51mAo8O8", "seat_keys": ["N:NnHVaMbv0RPJUs56P3nGbDXsfbIHIpsY", "E:nAtTxsmA2NA0yEI2w7bakQrSJxoeH9Hu", "S:3vLlYWVDdSax7ij4kiUg1lAl01HOlhhC", "W:j7ixiO6qFUO29jGnJm0GqWE94EdlEGmY"], "pubsub": ["ptable_gpH2Lm1k51mAo8O8", "vtable_51mAo8O8"]}
 ```
+
 generate_table.py
 Example usage:
 ```./generate_table.py '{"mytablekey" : "qlKjNQzTZorMBnBy"}'
