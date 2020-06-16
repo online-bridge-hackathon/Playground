@@ -8,7 +8,7 @@ Example usage:
 ./generate_table_or_admin_keys.py '{"keytype" : "table" , "howmanyadminkeys" : "10"}' # generates 10,000 table keys
 ```
 
-generate_seat_keys.py
+generate_seat_keys.py 
 Example usage:
 ```
 ./generate_seat_keys.py '{"mytablekey" : "gpH2Lm1k51mAo8O8"}'
